@@ -6,6 +6,8 @@ Practical deep learning projects built using Python, neural networks, and modern
 Image Classification
 Object Detection
 Neural Networks
-Stack
 
-## Python · PyTorch · TensorFlow · NumPy · Matplotlib
+
+## Stack
+
+Python · PyTorch · TensorFlow · NumPy · Matplotlib
